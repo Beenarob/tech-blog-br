@@ -1,4 +1,7 @@
 ## Tech Blog
+
+## Code Credit 
+(https://github.com/priyaravi23)
    
 ### Description
 
